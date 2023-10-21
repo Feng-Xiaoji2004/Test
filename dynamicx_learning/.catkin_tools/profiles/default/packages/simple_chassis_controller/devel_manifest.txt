@@ -1,0 +1,6 @@
+simple_chassis_controller
+/home/fxj/dynamicx_learning/devel/.private/simple_chassis_controller/cmake.lock /home/fxj/dynamicx_learning/devel/./cmake.lock
+/home/fxj/dynamicx_learning/devel/.private/simple_chassis_controller/lib/libsimple_chassis_controller.so /home/fxj/dynamicx_learning/devel/lib/libsimple_chassis_controller.so
+/home/fxj/dynamicx_learning/devel/.private/simple_chassis_controller/lib/pkgconfig/simple_chassis_controller.pc /home/fxj/dynamicx_learning/devel/lib/pkgconfig/simple_chassis_controller.pc
+/home/fxj/dynamicx_learning/devel/.private/simple_chassis_controller/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake /home/fxj/dynamicx_learning/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake
+/home/fxj/dynamicx_learning/devel/.private/simple_chassis_controller/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake /home/fxj/dynamicx_learning/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake

@@ -1,0 +1,12 @@
+Symlinking /home/fxj/dynamicx_learning/devel/./_setup_util.py
+Symlinking /home/fxj/dynamicx_learning/devel/./cmake.lock
+Symlinking /home/fxj/dynamicx_learning/devel/./setup.bash
+Symlinking /home/fxj/dynamicx_learning/devel/./setup.sh
+Symlinking /home/fxj/dynamicx_learning/devel/./env.sh
+Symlinking /home/fxj/dynamicx_learning/devel/./local_setup.bash
+Symlinking /home/fxj/dynamicx_learning/devel/./local_setup.sh
+Symlinking /home/fxj/dynamicx_learning/devel/./setup.zsh
+Symlinking /home/fxj/dynamicx_learning/devel/./local_setup.zsh
+Symlinking /home/fxj/dynamicx_learning/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/fxj/dynamicx_learning/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/fxj/dynamicx_learning/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

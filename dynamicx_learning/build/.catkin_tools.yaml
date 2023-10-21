@@ -1,0 +1,6 @@
+devel_space: /home/fxj/dynamicx_learning/devel
+install: false
+install_space: /home/fxj/dynamicx_learning/install
+profile: default
+source_space: /home/fxj/dynamicx_learning/src
+workspace: /home/fxj/dynamicx_learning

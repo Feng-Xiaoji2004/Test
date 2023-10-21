@@ -1,0 +1,1 @@
+/home/fxj/dynamicx_learning/devel/.private/rm_gazebo/lib/pkgconfig/rm_gazebo.pc

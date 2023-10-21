@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target simple_chassis_controller[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/simple_chassis_controller.dir/src/simple_chassis_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/fxj/dynamicx_learning/devel/.private/simple_chassis_controller/lib/libsimple_chassis_controller.so[0m
+[100%] Built target simple_chassis_controller
